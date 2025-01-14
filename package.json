@@ -1,11 +1,10 @@
 {
-  "homepage": "https://tiffany-choy.github.io/profile-website/",
-  "name": "profile-website-react",
+  "homepage": "https://tiffany-choy.github.io/profile/",
+  "name": "profile",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
